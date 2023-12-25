@@ -1,4 +1,4 @@
-![logo]([https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPBAqH8mXjCr02s7w98zIZUMWGariPyfyXEg&usqp=CAU))
+![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYrdAcsZ6CnfojpTw8ZMsYbTmJIZW4SJhZpA&usqp=CAU)
 
 <h1 align="center">Hi 👋, I'm Muhammad Shahbaz ALI</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
