@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shahbaz ALI</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 <img align="right" alt="coding"  width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
-![GitHub Banner]([your_image_url](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOrSzlBUNtNTA4vnr9nBGoz3WhCE_3fOHVIQ&usqp=CAU))
+![GitHub Banner]https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOrSzlBUNtNTA4vnr9nBGoz3WhCE_3fOHVIQ&usqp=CAU
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sherryrock&label=Profile%20views&color=0e75b6&style=flat" alt="sherryrock" /> </p>
 
 - 🌱 I’m currently learning **ASP.net core ,HTML,CSS ,Javascript**
